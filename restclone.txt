@@ -2,12 +2,3 @@ hello world
 my first commit
 my second commit
 my third commit
-<<<<<<< HEAD
-mhy fourth commit
-my fifth commit
-my sixth commit
-mhy fourth commit
-=======
-mhy fourth commit
->>>>>>> parent of 956dd20 (fifth commit)
-my final commit
